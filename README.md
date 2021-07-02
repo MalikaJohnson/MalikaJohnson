@@ -5,7 +5,7 @@
 - 🌱  I’m currently learning algorithms and data structures
 - 📫  How to reach me malikajohnson1995@gmail.com
 - 👩🏽‍💻  All of my projects will soon be available on www.malikajohnson.com
--
+
 
 <!---
 MalikaJohnson/MalikaJohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
