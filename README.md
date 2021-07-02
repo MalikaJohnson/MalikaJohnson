@@ -15,5 +15,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Languages & Tools 
 
-express, MongoDB
+
  
+
+:chart_with_upwards_trend: My Github Stats 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalikaJohnson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
