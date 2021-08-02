@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Connect with me on LinkedIn
 <a href="wwww.linkedin.com/in/malikajohnson-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin/malikajohnson-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>/>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ### Languages & Frameworks/ Libraries
 
