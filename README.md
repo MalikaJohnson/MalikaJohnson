@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 --->
 ### Connect with me on LinkedIn
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin/malikajohnson-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/malikajohnson-)
+<a href="wwww.linkedin.com/in/malikajohnson-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin/malikajohnson-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>/>
+
 
 ### Languages & Frameworks/ Libraries
 
