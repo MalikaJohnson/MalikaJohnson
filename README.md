@@ -4,7 +4,7 @@
 - 👀  I’m interested in front end development
 - 🌱  I’m currently learning algorithms and system design 
 - 📫  How to reach me malikajohnson1995@gmail.com
-- 👩🏽‍💻  All of my projects are available on www.malikacodes.com
+
 
 
 <!---
